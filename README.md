@@ -33,7 +33,7 @@ iPhone-Calculator/
 🖥️ How to Run Locally
 	1.	Clone the repository:
 
-git clone https://github.com/aditya2006p/iphone-calculator.git
+git clone https://github.com/aditya2006p/Dark_Themed_Calculator.io.git
 cd iphone-calculator
 
 
