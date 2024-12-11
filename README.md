@@ -2,7 +2,7 @@ iPhone-Themed Calculator 📱
 
 A sleek and elegant calculator inspired by the iPhone’s default calculator app. Built with JavaScript, HTML, and CSS, this calculator mimics the look and functionality of its iOS counterpart.
 
-(<img width="1446" alt="Screenshot 2024-12-11 at 6 15 00 PM" src="https://github.com/user-attachments/assets/af855ffa-f67d-4632-a8ed-52fa24fcbaad">)
+<img width="1446" alt="Screenshot 2024-12-11 at 6 15 00 PM" src="https://github.com/user-attachments/assets/af855ffa-f67d-4632-a8ed-52fa24fcbaad">
 
 🚀 Features
 	•	Responsive Design: Scales beautifully across devices.
@@ -19,7 +19,7 @@ A sleek and elegant calculator inspired by the iPhone’s default calculator app
 💻 Demo
 
 Live Demo
-(Update this link with the live demo URL from GitHub Pages)
+[(live demo URL)](https://aditya2006p.github.io/NeoCalc-iOS/)
 
 📂 Project Structure
 
