@@ -31,6 +31,8 @@ iPhone-Calculator/
 └── assets/           # Folder for images or other assets
 
 🖥️ How to Run Locally
+
+
 	1.	Clone the repository: 
  
  
